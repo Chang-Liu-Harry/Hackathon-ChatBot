@@ -1,9 +1,8 @@
 # Hackathon-ChatBot
-Chang's Entropy AI hackathon ChatBot project
 
 Hi there! This is Chang. Here is my project for Entropy AI's hackathon.
 
-This is a philosopher and rapper ChatBot, base on GTP4 and Weibo API.
+This is a philosopher and rapper ChatBot, based on GTP4 and Weibo API.
 
 Here are some examples of what s/he is like!
 
